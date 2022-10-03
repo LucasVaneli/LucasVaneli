@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Vaneli
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudo HTML, CSS, JavaScript e ReactJS
+- 🔭 Hoje trabalho como desenvolver Full Stack
+- 🌱 Estudo HTML, CSS, JavaScript, ReactJS e Java
 
 <div align="center">
   <a href="https://github.com/LucasVaneli">
